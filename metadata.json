@@ -1,0 +1,6 @@
+{
+  "name": "Synaxis Moçambique",
+  "description": "Sistemas modernos de automação, facturação e sincronia de dados para empresas em Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
